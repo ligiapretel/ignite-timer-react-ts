@@ -1,9 +1,14 @@
-export function App() {
-  
+import { Button } from "./components/Button";
+
+export function App() {  
 
   return (
     <>
-      <h2>Ignite Timer</h2>
+      <Button variant='primary'/>
+      <Button variant='secondary'/>
+      <Button variant='danger'/>
+      <Button variant='success'/>
+      <Button />
     </>
   )
 }
