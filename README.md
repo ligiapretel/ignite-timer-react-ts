@@ -1,6 +1,6 @@
 # :hourglass: Ignite Timer
 
-
+https://github.com/ligiapretel/ignite-timer-react-ts/assets/55797973/f71c4b2d-a8cb-4fa6-8ef4-12d1fb15eb3d
 
 ## :link: Link do projeto publicado
 <a href="https://ignite-timer-react-ts.vercel.app/" target="_blank">Clique aqui para visualizar</a>
