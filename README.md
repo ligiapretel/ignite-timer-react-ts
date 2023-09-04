@@ -1,27 +1,24 @@
-# React + TypeScript + Vite
+# :hourglass: Ignite Timer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :link: Link do projeto publicado
+<a href="https://ignite-timer-react-ts.vercel.app/" target="_blank">Clique aqui para visualizar</a>
 
-## Expanding the ESLint configuration
+## :rocket: Tecnologias
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Configure the top-level `parserOptions` property like this:
+- HTML e CSS
+- Typescript
+- React
+- React Router
+- React Hook Form
+- Zod
+- Immer
+- Styled Components
+- [Vite](https://vitejs.dev/)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## :computer: Projeto
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Promovido pela Rocketseat durante o curso de React.js, Ignite Timer simula um gerenciador de tarefas ao estilo "Pomodoro", trazendo funcionalidades como criar um novo ciclo de foco com título da tarefa e tempo de duração, interromper um ciclo e acompanhar o histórico de ciclos e seus status (em andamento, interrompido e concluído).
